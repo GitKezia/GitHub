@@ -19,6 +19,7 @@ Onde você informa cada alteração executada.
 - Após testado todo o seu código;
 - git add */ ou git add .
 - git commit -m "mensagem"
+- git push (envia as alterações do GitHub para sua máquina)
 ## GitFlow
 
 - Fluxo do Git;
@@ -33,3 +34,6 @@ São ramificações do código / versões paralelas
 - versionamento, que são as versões do código 0 -> (o código está em desenvolvimento) . 1 -> (grandes mudanças no código) .10 (correção de bugs)
 - 0.1.10;
 - git checkout -b nome da branch: cria uma nova branch
+
+### Merge 
+- Mescla de branchs;
